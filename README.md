@@ -1,2 +1,2 @@
-# test-repo-issues-prs-2
-Test repo for issues/PRs: test-repo-issues-prs-2
+# Test Repo
+For issues and PRs testing.
